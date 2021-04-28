@@ -1,0 +1,12 @@
+div {
+  border: black;
+}
+#button1 {
+  background-color: rgb(37, 113, 228);
+}
+#button2{
+  background-color: rgba(236, 68, 26, 0.76);
+}
+.button3 {
+  background-color: rgb(24, 238, 24);
+}
